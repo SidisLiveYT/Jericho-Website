@@ -1,8 +1,8 @@
 :root {
-  --main-color: #f54254;
+  --main-color: #0cd1b7;
   --background: #1d1d1e;
-  --secondary: #d63c0dd0;
-  --link: #f54254;
+  --secondary: #0d9dd6d0;
+  --link: #42c2f5;
   --text-color: #fff;
   --secondary-text-color: #dcdcdc;
 }
@@ -503,6 +503,7 @@ nav ul a {
   text-decoration: none;
   transition: color .3s;
 }
+
 
 
 
