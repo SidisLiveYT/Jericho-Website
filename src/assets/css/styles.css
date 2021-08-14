@@ -504,6 +504,13 @@ nav ul a {
   transition: color .3s;
 }
 
+body {
+  background-image: url("https://64.media.tumblr.com/9e0e3819d81ca5d426428b5ce9192bbb/tumblr_ntf43cjqOn1ud4xnno1_540.gif") !important;
+  background-position: inheritWW; 
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 
 
 
