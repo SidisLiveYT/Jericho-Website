@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'ponbus';
+    src: local('SK Payidar Rounded Light'), local('SK-Payidar-Rounded-Light'),
+        url('SKPayidarRounded-Light.woff2') format('woff2'),
+        url('SKPayidarRounded-Light.woff') format('woff'),
+        url('SKPayidarRounded-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+  }
